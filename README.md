@@ -24,6 +24,10 @@ npm install
 npm start
 ```
 
+## Notes/Credits
+Credit to https://github.com/joellord/mongodb-express-rest-api-example
+It was used as a baseline to update the example
+
 ## Disclaimer
 
 Use at your own risk; not a supported MongoDB product
